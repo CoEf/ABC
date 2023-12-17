@@ -1,8 +1,13 @@
+<<<<<<< HEAD
 <<Face Remesh with face mesh>>
 
 MediaPipe의 FaceMesh를 사용하여 얼굴메쉬를 remesh하는 것을 목표로 합니다.
 
 
+=======
+MediaPipe의 FaceMesh를 사용하여 얼굴메쉬를 remesh하는 것을 목표로 합니다.
+
+>>>>>>> 991936b94e417b82adf93a8ebbca4b982ac8c206
 <환경 설정>
 evaluate.py 와 attachMesh.py는 블렌더 api를 사용하기에 블렌더 스크립트 환경에서 작동합니다.
 
