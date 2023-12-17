@@ -1,3 +1,5 @@
+<<Face Remesh with face mesh>>
+
 MediaPipe의 FaceMesh를 사용하여 얼굴메쉬를 remesh하는 것을 목표로 합니다.
 
 
