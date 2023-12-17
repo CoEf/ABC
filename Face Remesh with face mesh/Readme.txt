@@ -1,3 +1,7 @@
+MediaPipe의 FaceMesh를 사용하여 얼굴메쉬를 remesh하는 것을 목표로 합니다.
+
+
+<환경 설정>
 evaluate.py 와 attachMesh.py는 블렌더 api를 사용하기에 블렌더 스크립트 환경에서 작동합니다.
 
 faceConstruction.py에서는 MediaPipe를 사용하여 블렌더 스크립트 환경에서 지원하지 않습니다.
@@ -5,7 +9,7 @@ faceConstruction.py에서는 MediaPipe를 사용하여 블렌더 스크립트 �
 
 
 
-
+<실행 방법>
 evaluate.py는 여러 지표들로 선택된 오브젝트 메쉬의 완전성을 평가합니다. 해당 지표들은 블렌더 코너에서 확인가능합니다.
 
 우선 준비한 오브젝트에 카메라를 얼굴에 놓아 주시고 렌더링을 진행해 주시기 바랍니다.
